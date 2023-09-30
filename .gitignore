@@ -16,3 +16,6 @@ examples/notebooks/example_saved_models
 examples/notebooks/example_tensorboard
 examples/notebooks/data
 examples/notebooks/pytorch_resnet_cifar10
+
+# JetBrains IDE
+.idea/
